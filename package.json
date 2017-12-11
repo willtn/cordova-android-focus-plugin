@@ -9,5 +9,9 @@
     "keywords": [
         "android",
         "focus"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/willtn/cordova-android-focus-plugin.git"
+    }
 }
