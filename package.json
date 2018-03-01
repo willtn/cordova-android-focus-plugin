@@ -13,5 +13,11 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/willtn/cordova-android-focus-plugin.git"
+    },
+    "cordova": {
+        "id": "fr._46cl.focus",
+        "platforms": [
+          "android"
+        ]
     }
 }
